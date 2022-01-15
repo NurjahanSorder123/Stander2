@@ -1,0 +1,117 @@
+@media (max-width: 576px){
+    /* Background Part Start */
+    .background-part.part2{
+        padding-left: 10px !important;
+    }
+    .background-content.part2 h2{
+        font-size: 25px  !important;
+        padding-left: 30px !important;
+        letter-spacing: 1px !important;
+    }
+    .content.part2 p{
+        padding: 8px 0px !important;
+        padding-left: 24px !important;
+        width: 138px !important;
+        font-size: 13px !important;
+    }
+    .content{
+        padding-left: 92px !important;
+    }
+    /* Background Part End */
+    /* Service Part Start */
+    .service-con{
+        padding: 30px !important;
+    }
+    /* Service Part End */
+    /* Happy Part Start */
+    .happy-icon{
+        padding: 15px 0px !important;
+    }
+    /* Happy Part End */
+    /* Start Part Start */
+    .start-content.none_df{
+        display: block !important;
+        padding-right: 0px !important;
+        padding-left: 55px !important;
+    }
+    .start-batton.botton2 p{
+        padding: 8px 24px !important;
+        width: 121px !important;
+    }
+    .start-batton{
+        padding-left: 45px;
+    }
+    /* Start Part End */   
+    /* Footer Part Start */
+    .footer-img.foot{
+       border-bottom: 2px solid #393939 !important;
+       border-right: none !important;
+       padding-left: 0px !important;
+    }
+    .footer-con{
+        padding-left: 15px !important;
+        padding-right: 0px !important;
+    }
+    .footer-con2{
+        padding-left: 15px !important;
+        padding-right: 0px !important;
+        padding-top: 0px !important;
+    }
+    /* Footer Part End */
+}
+@media (max-width: 768px){
+    /* About Part Start */
+    .about-content p{
+        padding-right: 5px !important;
+    }
+    /* About Part End */
+}
+@media (max-width: 992px){
+    /* About Part Start */
+    .about-content h6{
+        padding-top: 10px !important;
+    }
+    /* About Part End */
+    /* Our Blog Part Start */
+    .blog-img p{
+        padding-right: 0px !important;
+    }
+    /* Our Blog Part End */
+    /* Start Part Start */
+    .start-content{
+        padding-left: 113px  !important;
+    }
+    /* Start Part End */
+    /* Footer Part Start */
+    .dwon_footer{
+        padding-left: 40px !important;
+    }
+    /* Footer Part End */
+}
+@media (max-width: 1200px){
+    /* Background Part Start */
+    .background-part{
+        padding-left: 10px !important;
+    }
+    .background-content h2{
+        font-size: 40px !important;
+        padding-left: 80px !important;
+    }
+    .content p{
+        padding: 8px 0px !important;
+        padding-left: 24px !important;
+        width: 138px !important;
+        font-size: 13px !important;
+    }
+    /* Background Part End */
+    /* Service Part Start */
+    .service-content p{
+        padding-right: 0px !important;
+    }
+    /* Service Part End */
+    /* Footer Part Start */
+    .footer-img{
+        padding-left: 0px !important;
+    }
+    /* Footer Part End */
+}
